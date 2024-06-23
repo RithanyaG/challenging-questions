@@ -1,6 +1,5 @@
 import java.util.*;
 import java.io.*;
-
 public class Main{
     public static int fibo(int n){
         int a=0;
